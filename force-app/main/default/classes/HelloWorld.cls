@@ -1,5 +1,5 @@
 global class HelloWorld {
-/* Test method */
+/* Updated for Demo Project again */
 public String hello() {
    	return 'Hello World!';
 	}
