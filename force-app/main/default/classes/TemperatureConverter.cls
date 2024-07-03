@@ -1,4 +1,4 @@
-//temperature and returns the Celsius equivalent. Test class
+//temperature and returns the Celsius equivalent.
   public static Decimal FahrenheitToCelsius(Decimal fh) {
     Decimal cs = (fh - 32) * 5/9;
     return cs.setScale(2);
